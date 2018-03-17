@@ -1,4 +1,4 @@
-package com.surasint.example.db;
+package com.surasint.example.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

@@ -1,7 +1,7 @@
-package com.surasint.example.service;
+package com.surasint.example.services;
 
-import com.surasint.example.db.UserBean;
-import com.surasint.example.db.UserDao2;
+import com.surasint.example.domain.UserBean;
+import com.surasint.example.repositories.UserDao2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;

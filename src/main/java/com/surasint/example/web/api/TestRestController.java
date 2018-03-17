@@ -1,8 +1,8 @@
 package com.surasint.example.web.api;
 
-import com.surasint.example.db.UserBean;
-import com.surasint.example.service.UserService1;
-import com.surasint.example.service.UserService2;
+import com.surasint.example.domain.UserBean;
+import com.surasint.example.services.UserService1;
+import com.surasint.example.services.UserService2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

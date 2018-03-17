@@ -1,4 +1,4 @@
-package com.surasint.example.db;
+package com.surasint.example.domain;
 
 public class UserBean {
 
